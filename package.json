@@ -1,0 +1,22 @@
+{
+  "name": "functionalproject",
+  "version": "1.0.0",
+  "description": "Functional lib and examples in ES8",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \" Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sontseslav/FunctionalProject.git"
+  },
+  "author": "skhvalin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sontseslav/FunctionalProject/issues"
+  },
+  "homepage": "https://github.com/sontseslav/FunctionalProject#readme",
+  "devDependencies": {
+    "babel-preset-es2017-node7": "^0.5.2"
+  }
+}
